@@ -20,7 +20,7 @@ let questions = [
         choice2: 'Client',
         choice3: 'Both',
         choice4: 'None',
-        answer: 4,
+        answer: 3,
     },
     {
         question: 'If you want to check if x and y are equal in type and value which of the below statements should you use?',
@@ -130,6 +130,7 @@ function startTimer () {
 
         if (timerCount === 0) {
             clearInterval(timer);
+            localStorage.setItem('mostRecentScore', score)
             return window.location.assign('end.html') 
         }
     }, 1000)
