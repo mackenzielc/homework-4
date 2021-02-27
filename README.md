@@ -1,5 +1,15 @@
 # Homework 4: WebAPIs - Quiz Game
 
+## Instructions
+
+```
+1. Click "Start game"
+2. Try to answer the 5 quiz questions within 60 seconds 
+3. Each one you answer incorrectly will deduct 5 seconds from your remaining time
+4. Once you are either done answering all 5 questions or run out of time you will be prompted to enter your name for the score board
+5. You can keep track of your top score on the score board
+```
+
 ## User Story
 
 ```
