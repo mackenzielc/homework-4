@@ -4,9 +4,9 @@
 
 ```
 1. Click "Start game"
-2. Try to answer the 5 quiz questions within 60 seconds 
+2. Try to answer the 4 quiz questions within 30 seconds 
 3. Each one you answer incorrectly will deduct 5 seconds from your remaining time
-4. Once you are either done answering all 5 questions or run out of time you will be prompted to enter your name for the score board
+4. Once you are either done answering all 4 questions or run out of time you will be prompted to enter your name for the score board
 5. You can keep track of your top score on the score board
 ```
 
@@ -36,4 +36,6 @@ THEN I can save my initials and my score
 
 ## Mock-Up
 
-[Insert annimation here]
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./assets/codingQuizImage.png)
+
+Deployed link: https://mackenzielc.github.io/homework-4/ 
